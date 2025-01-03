@@ -1,0 +1,4 @@
+com\todo\MyToDoApp.class
+com\todo\task\entity\Task.class
+com\todo\task\dto\request\TaskCreateRequest.class
+com\todo\task\repository\TaskRepository.class
